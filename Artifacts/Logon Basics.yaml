@@ -1,0 +1,24 @@
+---
+configuration:
+- key: "launchUrl"
+  value: "https://github.com/bluestonedev/IOS_SDK_EXAMPLE_APPS/tree/master/logon-basic"
+- key: "ApplicationId"
+  value: ""
+id: null
+name: "Logon Basics"
+artifactTypeId: "iOS App"
+description:
+  title: ""
+  details: "Native iOS mobile application authenticates against the SAP Cloud Platform\
+    \ mobile services."
+  icon: null
+  background: null
+  moreInfo: ""
+  other: null
+created: null
+modified: null
+features: null
+application: null
+source:
+  url: "https://github.com/bluestonedev/IOS_SDK_EXAMPLE_APPS/tree/master/logon-basic"
+  type: "Github"
